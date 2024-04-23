@@ -1,2 +1,2 @@
 # SML 310 Final Project
-Due to ABCD Study's policy on data sharing, I removed all outputs from Colab Notebooks. Colab Notebooks with outputs will be submitted on Canvas. I referred to SML 310 Precepts on data visualization, classification methods, and decision trees for many of my models.
+Due to ABCD Study's policy on data sharing, I removed all outputs from Colab Notebooks. Colab Notebooks with outputs will be submitted on Canvas. I modified code from SML 310 precepts on data visualization, classification methods, and decision trees. For models that were not taught in class/precept, I referred to external sources on the web. Links have been added to appropriate notebooks.
